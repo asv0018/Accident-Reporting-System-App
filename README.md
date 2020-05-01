@@ -3,4 +3,4 @@ This is the project forked from github, major part of the code is in java. I hav
 <br><hr>To view the app, click here to download the .apk file <a href="https://drive.google.com/open?id=1qXjMgGyVuqaBfKZwr9I4l8wMnT_LNxjE">Accident Reporting System App</a>
 <br>
 To view the repository, click here to download the repository <a href="https://drive.google.com/open?id=1XXpi5zcfLOfxvkCDoe90acX9SNqnq27R">Accident Reporting System</a>
-<hr><vr>
+<hr>
